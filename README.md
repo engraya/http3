@@ -8,7 +8,7 @@
   </p>
 
 <h4>
-    <a href="https://http3.io">View Demo</a>
+    <a href="https://htt3.netlify.app/dashboard">View Demo</a>
   <span> · </span>
     <a href="https://github.com/yourusername/http3">Documentation</a>
   <span> · </span>
